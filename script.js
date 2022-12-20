@@ -1,1 +1,1 @@
-const titulo = document.getElementById(titulo).value;
+console.log('hola desde js')
